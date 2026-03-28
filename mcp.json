@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-whatsapp": {
+      "command": "mcp-whatsapp",
+      "env": {}
+    }
+  }
+}
